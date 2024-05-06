@@ -25,4 +25,11 @@ if nmrA > nmrB
 else:
     menor = nmrB
 '''
-
+print("Resultados a seguir:\n")
+print(f"Primeiro número: {nmrA}")
+print(f"segundo número: {nmrB}")
+print(f"\nsoma: {soma}")
+print(f"Produto: {produto}")
+print(f"Média: {media}")
+print(f"Maior número: {maior}")
+print(f"Menor número: {menor}")
